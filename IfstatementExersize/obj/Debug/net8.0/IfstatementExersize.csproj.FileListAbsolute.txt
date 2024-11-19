@@ -1,0 +1,14 @@
+C:\Users\jeste\source\repos\IfstatementExersize\bin\Debug\net8.0\IfstatementExersize.exe
+C:\Users\jeste\source\repos\IfstatementExersize\bin\Debug\net8.0\IfstatementExersize.deps.json
+C:\Users\jeste\source\repos\IfstatementExersize\bin\Debug\net8.0\IfstatementExersize.runtimeconfig.json
+C:\Users\jeste\source\repos\IfstatementExersize\bin\Debug\net8.0\IfstatementExersize.dll
+C:\Users\jeste\source\repos\IfstatementExersize\bin\Debug\net8.0\IfstatementExersize.pdb
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\IfstatementExersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\IfstatementExersize.AssemblyInfoInputs.cache
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\IfstatementExersize.AssemblyInfo.cs
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\IfstatementExersize.csproj.CoreCompileInputs.cache
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\IfstatementExersize.dll
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\refint\IfstatementExersize.dll
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\IfstatementExersize.pdb
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\IfstatementExersize.genruntimeconfig.cache
+C:\Users\jeste\source\repos\IfstatementExersize\obj\Debug\net8.0\ref\IfstatementExersize.dll
